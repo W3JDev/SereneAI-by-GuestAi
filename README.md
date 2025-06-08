@@ -1,6 +1,6 @@
 # 🌟 Serene AI Salon Assistant - Premium Client Experience Platform
 
-![Serene AI Salon Assistant Preview](https://via.placeholder.com/800x400/4a5568/ffffff?text=Serene+AI+in+Action)  
+![Serene AI Salon Assistant Preview](https://github.com/W3JDev/SereneAI-by-GuestAi/blob/Lets-Coin/SerineAi-3stepdemo.gif)  
 *Interactive preview of Serene AI Salon Assistant (screenshot placeholder)*
 
 [![React Version](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev)
